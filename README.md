@@ -17,10 +17,9 @@
 ### 效果对比 (Before & After)
 
 | 原始输入 (Source) | 提示词 (Target) | 最终合成 (Result) |
-| <img width="1440" height="2560" alt="image1" src="https://github.com/user-attachments/assets/5d560533-9bdb-48f2-9210-0078f68b9967" />
- | Image 1 is the person, Image 2 is the background. Change the clothes to a dark green windbreaker and cargo pants. | 
-<img width="377" height="677" alt="image" src="https://github.com/user-attachments/assets/6e2e92f7-ad8a-4718-a45f-20cfa8256277" />
- |
+| :--- | :--- | :--- |
+| **人物:**<br><img width="200" alt="Person" src="https://github.com/user-attachments/assets/599f6e13-324f-44f1-910e-09531ec13276" /><br>**背景:**<br><img width="200" alt="Background" src="https://github.com/user-attachments/assets/6e2e92f7-ad8a-4718-a45f-20cfa8256277" /> | Change the clothes to a dark green windbreaker and cargo pants. | <img width="400" alt="Result" src="https://github.com/user-attachments/assets/e7d840cd-0d04-485f-a038-a30ad27b1c6b" /> |
+
 
 ## 🛠️ 节点依赖 (Dependencies)
 
