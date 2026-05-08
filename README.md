@@ -32,7 +32,7 @@
 
 ## 🚀 快速开始
 
-1. 克隆本仓库：`git clone https://github.com/123peekaboo/仓库名.git`
+1. 克隆本仓库：`git clone https://github.com/123peekaboo/ComfyUI_images_edit.git`
 2. 将 `workflows/` 文件夹下的 `.json` 文件拖入你的 ComfyUI 界面。
 3. 点击 **"Install Missing Custom Nodes"** 补充缺失插件。
 4. 上传人物图，调整重绘强度 (Denoise)，点击生成。
